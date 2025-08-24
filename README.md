@@ -2,7 +2,7 @@
 
 ## ✨ Overview
 
-Sakhi Junction is an AI-powered platform built by Team She Codes during Hack With Her 4.0 (March 5-6, 2025), earning 2nd Runner-Up and the Diversity Award with ₹10,000 in Amazon Gift Vouchers. 🏆 Crafted with React.js, Node.js, MongoDB, Express.js, JWT, and designed in Figma, it empowers 100+ women with health tracking, community support, and personalized self-care, hosted on Vercel for seamless access.
+Sakhi Junction is an AI-powered platform built by Team SheCodes during Hack With Her 4.0 , earning 2nd Runner-Up and the Diversity Award with ₹10,000 in Amazon Gift Vouchers. Crafted with React.js, Node.js, MongoDB, Express.js, JWT, and designed in Figma, it empowers 100+ women with health tracking, community support, and personalized self-care, hosted on Vercel for seamless access.
 
 ## 🎯 Features
 
@@ -16,19 +16,13 @@ Sakhi Junction is an AI-powered platform built by Team She Codes during Hack Wit
 
 - Community Feed: Safe space for women to share stories and connect. Features reactions and comments for a supportive community.
 
-- Anonymous Chat: Secure, encrypted messaging for private discussions. Ensures user privacy with end-to-end encryption.
+- Easy Chat: Secure, encrypted messaging for private discussions. Ensures user privacy with end-to-end encryption.
 
-### 🩺 Health & Wellness
+### Health & Wellness
 
-- Cycle & Wellness Tracker: Tracks menstrual cycles and symptoms, 30% more efficient. Offers predictive insights with visual charts.
-
-- Event Calendar: Lists women’s events and support groups with RSVPs. Enables networking and empowerment through workshops.
-
-### 🔔 Safety & Support
-
-- Safety Alerts: Real-time local safety updates via geolocation APIs. Provides emergency resources and customizable notifications.
-
-- Community Dashboard: Interactive hub boosting engagement by 25%. Displays posts, events, and wellness goals seamlessly.
+- Cycle & Wellness Tracker: Monitors menstrual cycles and symptoms with 30% improved efficiency. Provides predictive insights via intuitive charts.
+  
+- Symptom Log: Allows users to log period symptoms like cramps and bloating with intensity. Tracks history with dates for better health awareness.
 
 ### 🗣️ Her Voice Self-Care Messages
 
@@ -97,31 +91,31 @@ she-codes/ <br>
 
 Note: Screenshots are placeholders as specific images are not provided.
 
-💻 Dashboard:
+## 💻 Dashboard:
 ![Alt Text](./images%20for%20readme/Dashboard.png) <br> 
 
 
 
-🌸 Community Feed
+## 🌸 Community Feed
 ![Alt Text](./images%20for%20readme/Community.png) <br>
 
 
 
-🩺 Cycle & Wellness Tracker:
+## 🩺 Cycle & Wellness Tracker:
 ![Alt Text](./images%20for%20readme/tracker.png) <br>
 
 
-🤖 Sakhi Chatbot:
+## 🤖 Sakhi Chatbot:
 ![Alt Text](./images%20for%20readme/chatbot.png) <br> 
 
 
 
-🗣️ Her Voice Scheduled Messages:
+## 🗣️ Her Voice Scheduled Messages:
 ![Alt Text](./images%20for%20readme/messages.png) <br> 
 
 
 
-🔔 Period Symptoms Log:
+## 🔔 Period Symptoms Log:
 ![Alt Text](./images%20for%20readme/symtoms.png) <br> 
 
 
