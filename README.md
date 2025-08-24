@@ -98,6 +98,7 @@ she-codes/ <br>
 Note: Screenshots are placeholders as specific images are not provided.
 
 💻 Dashboard:
+![Alt Text](./images%20for%20readme/Dashboard.png)
 
 
 
