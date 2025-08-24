@@ -148,7 +148,7 @@ body {
   background-color: #6D4FC2;
   align-items: center;
   justify-content: center;
-  z-index: 9999;
+  z-index: 10000000;
 }
 
 #chatbot-toggler span {
@@ -169,7 +169,6 @@ body {
   pointer-events: none;
   transform: scale(0.7);
   transition: all 0.3s ease;
-  z-index: 9998;
 }
 
 .chatbot-popup.show {
