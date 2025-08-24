@@ -101,7 +101,7 @@ Note: Screenshots are placeholders as specific images are not provided.
 
 
 
-🌸 Community Feed:
+🌸 Community Feed
 
 
 
