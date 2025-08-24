@@ -98,31 +98,32 @@ she-codes/ <br>
 Note: Screenshots are placeholders as specific images are not provided.
 
 💻 Dashboard:
-![Alt Text](./images%20for%20readme/Dashboard.png)
+![Alt Text](./images%20for%20readme/Dashboard.png) <br> 
 
 
 
 🌸 Community Feed
+![Alt Text](./images%20for%20readme/Community.png) <br>
 
 
 
 🩺 Cycle & Wellness Tracker:
-
+![Alt Text](./images%20for%20readme/tracker.png) <br>
 
 
 🤖 Sakhi Chatbot:
+![Alt Text](./images%20for%20readme/chatbot.png) <br> 
 
 
 
-🗣️ Her Voice Self-Care:
+🗣️ Her Voice Scheduled Messages:
+![Alt Text](./images%20for%20readme/messages.png) <br> 
 
 
 
-🔔 Safety Alerts:
+🔔 Period Symptoms Log:
+![Alt Text](./images%20for%20readme/syntoms.png) <br> 
 
-
-
-📅 Event Calendar:
 
 ## 🚀 Live Demo
 
