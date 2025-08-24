@@ -122,7 +122,7 @@ Note: Screenshots are placeholders as specific images are not provided.
 
 
 🔔 Period Symptoms Log:
-![Alt Text](./images%20for%20readme/syntoms.png) <br> 
+![Alt Text](./images%20for%20readme/symtoms.png) <br> 
 
 
 ## 🚀 Live Demo
@@ -131,16 +131,16 @@ Note: Screenshots are placeholders as specific images are not provided.
 
 ## 🛠️ Installation
 
-git clone https://github.com/KritikaSawhney/she-codes.git <br>
-cd she-codes <br>
-npm install <br>
-npm run dev <br>
+- git clone https://github.com/KritikaSawhney/she-codes.git <br>
+- cd she-codes <br>
+- npm install <br>
+- npm run dev <br>
 
 Note: Ensure MongoDB is running and configure environment variables for JWT and geolocation APIs.
 
 ## 💬 Feedback
 
-We’d love to hear from you! Open an issue on GitHub or connect via #SakhiJunction and #sheCodes.
+We’d love to hear from you! Open an issue or contact us for suggestions on kritikasawhney1010@gmail.com.
 
 ## 📢 Show Some Love
 
