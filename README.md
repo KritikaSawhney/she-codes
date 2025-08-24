@@ -10,7 +10,7 @@ Sakhi Junction is an AI-powered platform built by Team SheCodes during Hack With
 
 - Sakhi Chatbot: AI-driven assistant for real-time, personalized guidance. Adapts to user needs with tailored health and self-care advice.
 
-- Resource Library: Curated articles and blogs on women’s health and empowerment. Searchable interface offers expert guides and inspiration.
+- Resource Library: Curated articles and blogs on women’s health and empowerment giving guides and inspiration.
 
 ### 🌟 Community & Connection
 
@@ -18,7 +18,7 @@ Sakhi Junction is an AI-powered platform built by Team SheCodes during Hack With
 
 - Easy Chat: Secure, encrypted messaging for private discussions. Ensures user privacy with end-to-end encryption.
 
-### Health & Wellness
+### 🩺 Health & Wellness
 
 - Cycle & Wellness Tracker: Monitors menstrual cycles and symptoms with 30% improved efficiency. Provides predictive insights via intuitive charts.
   
@@ -89,14 +89,13 @@ she-codes/ <br>
 
 ## 📸 Screenshots
 
-Note: Screenshots are placeholders as specific images are not provided.
 
 ## 💻 Dashboard:
 ![Alt Text](./images%20for%20readme/Dashboard.png) <br> 
 
 
 
-## 🌸 Community Feed
+## 🌸 Community Feed:
 ![Alt Text](./images%20for%20readme/Community.png) <br>
 
 
