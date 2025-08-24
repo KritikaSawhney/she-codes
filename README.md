@@ -1,4 +1,4 @@
-# 🌸 Sakhi Junction: Empowering Women Through Technology
+# 🌸 सखीJunction
 
 ## ✨ Overview
 
@@ -70,28 +70,28 @@ Sakhi Junction is an AI-powered platform built by Team She Codes during Hack Wit
 
 ## 📁 Folder Structure
 
-she-codes/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── ui/
-│   │       ├── MenstrualTracker.tsx
-│   │       ├── HerVoice.tsx
-│   ├── hooks/
-│   ├── pages/
-│   │   ├── Community.tsx
-│   │   ├── Tracker.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── server/
-│   ├── routes/
-│   ├── models/
-│   ├── controllers/
-│   └── index.js
-├── tailwind.config.ts
-├── vite.config.ts
-├── tsconfig.app.json
+she-codes/ <br>
+├── public/ <br>
+├── src/ <br>
+│   ├── components/ <br>
+│   │   └── ui/ <br>
+│   │       ├── MenstrualTracker.tsx <br>
+│   │       ├── HerVoice.tsx <br>
+│   ├── hooks/ <br>
+│   ├── pages/ <br>
+│   │   ├── Community.tsx <br>
+│   │   ├── Tracker.tsx <br>
+│   ├── App.tsx <br>
+│   ├── main.tsx <br>
+│   └── index.css <br>
+├── server/ <br>
+│   ├── routes/ <br>
+│   ├── models/ <br>
+│   ├── controllers/ <br>
+│   └── index.js <br>
+├── tailwind.config.ts <br>
+├── vite.config.ts <br>
+├── tsconfig.app.json <br>
 
 ## 📸 Screenshots
 
@@ -129,10 +129,10 @@ Note: Screenshots are placeholders as specific images are not provided.
 
 ## 🛠️ Installation
 
-git clone https://github.com/KritikaSawhney/she-codes.git
-cd she-codes
-npm install
-npm run dev
+git clone https://github.com/KritikaSawhney/she-codes.git <br>
+cd she-codes <br>
+npm install <br>
+npm run dev <br>
 
 Note: Ensure MongoDB is running and configure environment variables for JWT and geolocation APIs.
 
@@ -142,8 +142,8 @@ We’d love to hear from you! Open an issue on GitHub or connect via #SakhiJunct
 
 ## 📢 Show Some Love
 
-If you like Sakhi Junction, please ⭐ the repo and share it with your network!
-"Empowering women is a movement. Join us for a stronger, safer world."
+If you like Sakhi Junction, please ⭐ the repo and share it with your network! <br>
+"Empowering women is a movement. Join us for a stronger, safer world."<br>
 
 ## © 2025 Team She Codes
 #HackWithHer #sheCodes #SakhiJunction #WomenInTech #TechForGood #IEEE #Edifecs #Innovation #Hackathon #Teamwork #WomenEmpowerment
